@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="180" viewBox="0 0 1100 180" role="img" aria-labelledby="title desc">
+  <title id="title">Connected AI engineering capabilities</title>
+  <desc id="desc">An animated network connecting agentic AI, retrieval, computer vision, machine learning, and platform engineering.</desc>
+  <defs>
+    <filter id="glow" x="-100%" y="-100%" width="300%" height="300%">
+      <feGaussianBlur stdDeviation="3" result="b" />
+      <feMerge><feMergeNode in="b" /><feMergeNode in="SourceGraphic" /></feMerge>
+    </filter>
+  </defs>
+  <rect x="1" y="1" width="1098" height="178" rx="8" fill="#0A0F17" stroke="#273544" stroke-width="2" />
+  <g fill="none" stroke="#304357" stroke-width="2" stroke-dasharray="7 10">
+    <path d="M550 90 L150 55" /><path d="M550 90 L340 130" /><path d="M550 90 L760 130" /><path d="M550 90 L950 55" />
+    <animate attributeName="stroke-dashoffset" values="0;-68" dur="4s" repeatCount="indefinite" />
+  </g>
+  <g font-family="Segoe UI, Arial, sans-serif" text-anchor="middle">
+    <g transform="translate(550 90)">
+      <polygon points="0,-47 42,-24 42,24 0,47 -42,24 -42,-24" fill="#12353D" stroke="#2DD4BF" stroke-width="2" />
+      <polygon points="0,-34 30,-17 30,17 0,34 -30,17 -30,-17" fill="#0D202A" stroke="#21D4FD" />
+      <text y="-2" fill="#FFFFFF" font-size="13" font-weight="800">AI</text>
+      <text y="15" fill="#80EADC" font-size="10" font-weight="700">CORE</text>
+      <animateTransform attributeName="transform" type="translate" values="550 86;550 94;550 86" dur="4s" repeatCount="indefinite" />
+    </g>
+    <g transform="translate(150 55)">
+      <rect x="-68" y="-24" width="136" height="48" rx="7" fill="#142A40" stroke="#2A78A2" />
+      <text y="5" fill="#80DAF5" font-size="12" font-weight="700">COMPUTER VISION</text>
+      <animate attributeName="opacity" values="0.68;1;0.68" dur="3.6s" repeatCount="indefinite" />
+    </g>
+    <g transform="translate(340 130)">
+      <rect x="-58" y="-23" width="116" height="46" rx="7" fill="#30291B" stroke="#97792D" />
+      <text y="5" fill="#F4D36A" font-size="12" font-weight="700">APPLIED ML</text>
+      <animate attributeName="opacity" values="0.68;1;0.68" dur="3.6s" begin="-0.9s" repeatCount="indefinite" />
+    </g>
+    <g transform="translate(760 130)">
+      <rect x="-58" y="-23" width="116" height="46" rx="7" fill="#3A2528" stroke="#A65059" />
+      <text y="5" fill="#FF9F8C" font-size="12" font-weight="700">AI PLATFORM</text>
+      <animate attributeName="opacity" values="0.68;1;0.68" dur="3.6s" begin="-1.8s" repeatCount="indefinite" />
+    </g>
+    <g transform="translate(950 55)">
+      <rect x="-68" y="-24" width="136" height="48" rx="7" fill="#12352E" stroke="#27876E" />
+      <text y="5" fill="#7CE7C3" font-size="12" font-weight="700">AGENTS + RAG</text>
+      <animate attributeName="opacity" values="0.68;1;0.68" dur="3.6s" begin="-2.7s" repeatCount="indefinite" />
+    </g>
+  </g>
+  <g fill="#FFFFFF" filter="url(#glow)">
+    <circle r="4"><animateMotion dur="3.2s" repeatCount="indefinite" path="M150,55 L550,90 L950,55" /></circle>
+    <circle r="4" fill="#FBBF24"><animateMotion dur="3.8s" repeatCount="indefinite" path="M340,130 L550,90 L760,130" /></circle>
+  </g>
+</svg>

@@ -1,0 +1,165 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="430" viewBox="0 0 1200 430" role="img" aria-labelledby="title desc">
+  <title id="title">Muhammad Hamza - AI Engineer</title>
+  <desc id="desc">Animated three-dimensional AI systems network connecting agents, retrieval, vision, and production engineering.</desc>
+
+  <defs>
+    <linearGradient id="edge" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#21D4FD" />
+      <stop offset="0.52" stop-color="#2DD4BF" />
+      <stop offset="1" stop-color="#FF6B4A" />
+    </linearGradient>
+    <linearGradient id="topFace" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#183B59" />
+      <stop offset="1" stop-color="#136E72" />
+    </linearGradient>
+    <linearGradient id="leftFace" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#11263C" />
+      <stop offset="1" stop-color="#0F4D57" />
+    </linearGradient>
+    <linearGradient id="rightFace" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#1A3D4A" />
+      <stop offset="1" stop-color="#6A3340" />
+    </linearGradient>
+    <filter id="glow" x="-100%" y="-100%" width="300%" height="300%">
+      <feGaussianBlur stdDeviation="4" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+    <filter id="softShadow" x="-30%" y="-30%" width="160%" height="180%">
+      <feDropShadow dx="0" dy="12" stdDeviation="12" flood-color="#000000" flood-opacity="0.45" />
+    </filter>
+    <clipPath id="sceneClip">
+      <rect x="0" y="0" width="1200" height="430" rx="18" />
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#sceneClip)">
+    <rect width="1200" height="430" fill="#0A0F17" />
+    <rect x="1" y="1" width="1198" height="428" rx="17" fill="none" stroke="#263342" stroke-width="2" />
+
+    <g opacity="0.38" stroke="#263342" stroke-width="1">
+      <path d="M0 364 H1200" />
+      <path d="M96 332 H1104" />
+      <path d="M188 304 H1012" />
+      <path d="M270 280 H930" />
+      <path d="M342 260 H858" />
+      <path d="M600 244 L1120 430" />
+      <path d="M600 244 L920 430" />
+      <path d="M600 244 L760 430" />
+      <path d="M600 244 L600 430" />
+      <path d="M600 244 L440 430" />
+      <path d="M600 244 L280 430" />
+      <path d="M600 244 L80 430" />
+      <animate attributeName="opacity" values="0.2;0.52;0.2" dur="5s" repeatCount="indefinite" />
+    </g>
+
+    <g font-family="Segoe UI, Arial, sans-serif">
+      <text x="62" y="86" fill="#F8FAFC" font-size="46" font-weight="700" letter-spacing="0">Muhammad Hamza</text>
+      <rect x="63" y="106" width="92" height="4" rx="2" fill="#21D4FD">
+        <animate attributeName="width" values="92;248;92" dur="4.8s" repeatCount="indefinite" />
+      </rect>
+      <text x="62" y="148" fill="#A8B4C4" font-size="19" letter-spacing="0">AI ENGINEER  /  APPLIED RESEARCHER</text>
+      <text x="62" y="190" fill="#D9E2EC" font-size="23" font-weight="600" letter-spacing="0">Agentic AI. RAG. Computer Vision.</text>
+      <text x="62" y="224" fill="#8FA1B5" font-size="17" letter-spacing="0">Engineering intelligent systems from research to production.</text>
+
+      <g transform="translate(62 270)">
+        <rect width="370" height="58" rx="7" fill="#121B27" stroke="#33475B" />
+        <rect width="6" height="58" rx="3" fill="#FF6B4A">
+          <animate attributeName="fill" values="#FF6B4A;#FBBF24;#FF6B4A" dur="4s" repeatCount="indefinite" />
+        </rect>
+        <text x="24" y="22" fill="#7F91A6" font-size="12" font-weight="700" letter-spacing="1.5">DIRECT CONTACT</text>
+        <text x="24" y="43" fill="#F8FAFC" font-size="17" font-weight="600" letter-spacing="0">hamza.ai.official@gmail.com</text>
+      </g>
+
+      <g transform="translate(62 354)" font-size="13" font-weight="600" letter-spacing="0">
+        <rect width="132" height="34" rx="5" fill="#123039" stroke="#1C6970" />
+        <text x="17" y="22" fill="#72E6D4">AI SYSTEMS</text>
+        <rect x="144" width="100" height="34" rx="5" fill="#16293E" stroke="#285578" />
+        <text x="164" y="22" fill="#75CFF0">RESEARCH</text>
+        <rect x="256" width="126" height="34" rx="5" fill="#33252A" stroke="#70404B" />
+        <text x="275" y="22" fill="#FF9C85">PRODUCTION</text>
+      </g>
+    </g>
+
+    <g transform="translate(874 215)" filter="url(#softShadow)">
+      <ellipse cx="0" cy="102" rx="185" ry="44" fill="#05080D" opacity="0.75" />
+
+      <g fill="none" stroke-linecap="round">
+        <ellipse rx="204" ry="92" stroke="#21D4FD" stroke-width="2" stroke-dasharray="18 13" opacity="0.62">
+          <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="18s" repeatCount="indefinite" />
+          <animate attributeName="stroke-dashoffset" values="0;-124" dur="7s" repeatCount="indefinite" />
+        </ellipse>
+        <ellipse rx="158" ry="128" stroke="#2DD4BF" stroke-width="2" stroke-dasharray="10 17" opacity="0.48" transform="rotate(-24)">
+          <animateTransform attributeName="transform" type="rotate" from="-24" to="336" dur="24s" repeatCount="indefinite" />
+        </ellipse>
+        <ellipse rx="118" ry="158" stroke="#FF6B4A" stroke-width="2" stroke-dasharray="7 16" opacity="0.4" transform="rotate(38)">
+          <animateTransform attributeName="transform" type="rotate" from="38" to="-322" dur="28s" repeatCount="indefinite" />
+        </ellipse>
+      </g>
+
+      <g>
+        <animateTransform attributeName="transform" type="translate" values="0 -5;0 7;0 -5" dur="5.2s" repeatCount="indefinite" />
+        <polygon points="0,-88 92,-42 0,5 -92,-42" fill="url(#topFace)" stroke="#55E8F5" stroke-width="2" />
+        <polygon points="-92,-42 0,5 0,116 -92,64" fill="url(#leftFace)" stroke="#258D9B" stroke-width="2" />
+        <polygon points="0,5 92,-42 92,64 0,116" fill="url(#rightFace)" stroke="#C35C58" stroke-width="2" />
+
+        <g fill="none" stroke="#C9F9FF" stroke-width="2" opacity="0.72">
+          <path d="M-45 -42 L0 -66 L45 -42 L0 -18 Z" />
+          <path d="M-45 5 L-18 20 L-18 78 L-45 62 Z" />
+          <path d="M45 5 L18 20 L18 78 L45 62 Z" />
+        </g>
+
+        <circle r="18" fill="#0A0F17" stroke="#FBBF24" stroke-width="3" filter="url(#glow)">
+          <animate attributeName="r" values="15;21;15" dur="2.6s" repeatCount="indefinite" />
+          <animate attributeName="stroke" values="#FBBF24;#21D4FD;#FBBF24" dur="5.2s" repeatCount="indefinite" />
+        </circle>
+        <text x="0" y="5" fill="#FFFFFF" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="800" text-anchor="middle">AI</text>
+      </g>
+
+      <g font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="700" text-anchor="middle">
+        <g transform="translate(-186 -70)">
+          <rect x="-45" y="-18" width="90" height="36" rx="6" fill="#111B28" stroke="#29769B" />
+          <text y="5" fill="#79DAF5">VISION</text>
+          <animateTransform attributeName="transform" type="translate" values="-186 -70;-176 -76;-186 -70" dur="5s" repeatCount="indefinite" />
+        </g>
+        <g transform="translate(184 -88)">
+          <rect x="-42" y="-18" width="84" height="36" rx="6" fill="#13251F" stroke="#288E70" />
+          <text y="5" fill="#71E2BB">RAG</text>
+          <animateTransform attributeName="transform" type="translate" values="184 -88;174 -78;184 -88" dur="6.2s" repeatCount="indefinite" />
+        </g>
+        <g transform="translate(202 74)">
+          <rect x="-48" y="-18" width="96" height="36" rx="6" fill="#2B2025" stroke="#9A4B57" />
+          <text y="5" fill="#FF9C85">AGENTS</text>
+          <animateTransform attributeName="transform" type="translate" values="202 74;190 80;202 74" dur="5.6s" repeatCount="indefinite" />
+        </g>
+        <g transform="translate(-191 88)">
+          <rect x="-48" y="-18" width="96" height="36" rx="6" fill="#292618" stroke="#967A25" />
+          <text y="5" fill="#F6D66A">MLOPS</text>
+          <animateTransform attributeName="transform" type="translate" values="-191 88;-181 78;-191 88" dur="6.8s" repeatCount="indefinite" />
+        </g>
+      </g>
+
+      <g fill="#FFFFFF" filter="url(#glow)">
+        <circle r="4">
+          <animateMotion dur="3.4s" repeatCount="indefinite" path="M-170,-62 C-105,-105 -62,-70 0,0" />
+        </circle>
+        <circle r="4" fill="#2DD4BF">
+          <animateMotion dur="3.9s" repeatCount="indefinite" path="M170,-78 C112,-112 68,-74 0,0" />
+        </circle>
+        <circle r="4" fill="#FF6B4A">
+          <animateMotion dur="4.2s" repeatCount="indefinite" path="M188,70 C120,112 70,80 0,0" />
+        </circle>
+        <circle r="4" fill="#FBBF24">
+          <animateMotion dur="3.7s" repeatCount="indefinite" path="M-178,82 C-116,122 -64,80 0,0" />
+        </circle>
+      </g>
+    </g>
+
+    <rect x="0" y="422" width="1200" height="8" fill="url(#edge)">
+      <animate attributeName="x" values="-1200;0" dur="3.8s" repeatCount="indefinite" />
+      <animate attributeName="width" values="1200;2400" dur="3.8s" repeatCount="indefinite" />
+    </rect>
+  </g>
+</svg>

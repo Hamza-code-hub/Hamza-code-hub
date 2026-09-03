@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="170" viewBox="0 0 1100 170" role="img" aria-labelledby="title desc">
+  <title id="title">Direct contact with Muhammad Hamza</title>
+  <desc id="desc">An animated communication signal centered on Muhammad Hamza's professional email address.</desc>
+  <defs>
+    <linearGradient id="signal" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#21D4FD" /><stop offset="0.5" stop-color="#2DD4BF" /><stop offset="1" stop-color="#FF6B4A" />
+    </linearGradient>
+    <filter id="glow" x="-100%" y="-100%" width="300%" height="300%">
+      <feGaussianBlur stdDeviation="4" result="b" />
+      <feMerge><feMergeNode in="b" /><feMergeNode in="SourceGraphic" /></feMerge>
+    </filter>
+  </defs>
+  <rect x="1" y="1" width="1098" height="168" rx="8" fill="#0A0F17" stroke="#273544" stroke-width="2" />
+  <g font-family="Segoe UI, Arial, sans-serif">
+    <text x="46" y="59" fill="#F8FAFC" font-size="22" font-weight="700">LET'S BUILD SOMETHING USEFUL</text>
+    <text x="46" y="91" fill="#8FA1B5" font-size="15">AI engineering, applied research, and production collaboration.</text>
+    <text x="46" y="128" fill="#72E6D4" font-size="18" font-weight="700">hamza.ai.official@gmail.com</text>
+    <rect x="46" y="142" width="285" height="3" rx="2" fill="url(#signal)">
+      <animate attributeName="width" values="70;285;70" dur="4.4s" repeatCount="indefinite" />
+    </rect>
+  </g>
+
+  <g transform="translate(886 85)">
+    <g fill="none" stroke="url(#signal)" stroke-width="2" opacity="0.65">
+      <circle r="33"><animate attributeName="r" values="30;62" dur="2.8s" repeatCount="indefinite" /><animate attributeName="opacity" values="0.8;0" dur="2.8s" repeatCount="indefinite" /></circle>
+      <circle r="33"><animate attributeName="r" values="30;62" dur="2.8s" begin="-1.4s" repeatCount="indefinite" /><animate attributeName="opacity" values="0.8;0" dur="2.8s" begin="-1.4s" repeatCount="indefinite" /></circle>
+    </g>
+    <rect x="-64" y="-40" width="128" height="80" rx="8" fill="#142331" stroke="#3A5368" stroke-width="2" />
+    <path d="M-49 -24 L0 12 L49 -24" fill="none" stroke="#F8FAFC" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" />
+    <path d="M-49 25 L-13 0 M49 25 L13 0" fill="none" stroke="#78DDEF" stroke-width="3" stroke-linecap="round" />
+    <circle cx="53" cy="-31" r="8" fill="#FF6B4A" filter="url(#glow)">
+      <animate attributeName="r" values="6;10;6" dur="1.8s" repeatCount="indefinite" />
+    </circle>
+    <animateTransform attributeName="transform" type="translate" values="886 82;886 89;886 82" dur="4s" repeatCount="indefinite" />
+  </g>
+
+  <path d="M380 112 C520 40 676 42 800 92" fill="none" stroke="url(#signal)" stroke-width="2" stroke-dasharray="8 12" opacity="0.55">
+    <animate attributeName="stroke-dashoffset" values="0;-80" dur="3s" repeatCount="indefinite" />
+  </path>
+  <circle r="4" fill="#FFFFFF" filter="url(#glow)">
+    <animateMotion dur="3.4s" repeatCount="indefinite" path="M380,112 C520,40 676,42 800,92" />
+  </circle>
+</svg>
