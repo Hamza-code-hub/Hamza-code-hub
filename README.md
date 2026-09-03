@@ -11,19 +11,25 @@
 </a>
 
 <a href="https://hamza-code-hub.github.io/">
-  <img alt="Muhammad Hamza's focus areas" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=20&amp;pause=1250&amp;color=22D3EE&amp;center=true&amp;vCenter=true&amp;width=900&amp;lines=Engineering+AI+systems+that+ship;Agentic+AI+%7C+RAG+%7C+Computer+Vision;Research-minded%2C+production-focused" />
+  <img alt="Muhammad Hamza's focus areas" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=20&amp;pause=1250&amp;color=22D3EE&amp;center=true&amp;vCenter=true&amp;width=900&amp;lines=Engineering+AI+systems+that+ship;Agentic+AI+%7C+RAG+%7C+Computer+Vision;Research-minded%2C+production-focused;Open+to+AI+collaboration+and+research" />
 </a>
 
 <p>
-  <a href="https://hamza-code-hub.github.io/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-Explore_work-0EA5E9?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/hamzzaz"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" /></a>
-  <a href="https://www.kaggle.com/muhammadhamzamaher"><img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-Experiments-20BEFF?style=for-the-badge&amp;logo=kaggle&amp;logoColor=white" /></a>
-  <a href="https://scholar.google.com/citations?user=akj6QK0AAAAJ&amp;hl=en"><img alt="Google Scholar" src="https://img.shields.io/badge/Google_Scholar-Research-4285F4?style=for-the-badge&amp;logo=googlescholar&amp;logoColor=white" /></a>
+  <a href="https://hamza-code-hub.github.io/"><img width="38" height="38" alt="Portfolio" title="Portfolio" src="https://cdn.simpleicons.org/googlechrome/4285F4" /></a>&nbsp;&nbsp;
+  <a href="https://github.com/Hamza-code-hub"><img width="38" height="38" alt="GitHub" title="GitHub" src="https://cdn.simpleicons.org/github/181717/FFFFFF" /></a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/hamzzaz"><img width="38" height="38" alt="LinkedIn" title="LinkedIn" src="https://cdn.simpleicons.org/linkedin/0A66C2" /></a>&nbsp;&nbsp;
+  <a href="https://www.kaggle.com/muhammadhamzamaher"><img width="38" height="38" alt="Kaggle" title="Kaggle" src="https://cdn.simpleicons.org/kaggle/20BEFF" /></a>&nbsp;&nbsp;
+  <a href="https://scholar.google.com/citations?user=akj6QK0AAAAJ&amp;hl=en"><img width="38" height="38" alt="Google Scholar" title="Google Scholar" src="https://cdn.simpleicons.org/googlescholar/4285F4" /></a>&nbsp;&nbsp;
+  <a href="https://orcid.org/0009-0005-5941-1917"><img width="38" height="38" alt="ORCID" title="ORCID" src="https://cdn.simpleicons.org/orcid/A6CE39" /></a>&nbsp;&nbsp;
+  <a href="https://hamza-code-hub.github.io/resume/"><img width="38" height="38" alt="Resume" title="Resume" src="https://cdn.simpleicons.org/googledocs/4285F4" /></a>&nbsp;&nbsp;
+  <a href="mailto:hamza.ai.official@gmail.com"><img width="38" height="38" alt="Email Muhammad Hamza" title="Email Muhammad Hamza" src="https://cdn.simpleicons.org/gmail/EA4335" /></a>
 </p>
 
 <p>
-  <a href="https://orcid.org/0009-0005-5941-1917"><img alt="ORCID" src="https://img.shields.io/badge/ORCID-0009--0005--5941--1917-A6CE39?style=flat-square&amp;logo=orcid&amp;logoColor=white" /></a>
-  <a href="https://hamza-code-hub.github.io/resume/"><img alt="Resume" src="https://img.shields.io/badge/Resume-View_CV-F97316?style=flat-square&amp;logo=readdotcv&amp;logoColor=white" /></a>
+  <a href="mailto:hamza.ai.official@gmail.com"><img alt="Email Muhammad Hamza at hamza.ai.official@gmail.com" src="https://img.shields.io/badge/Email-hamza.ai.official%40gmail.com-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" /></a>
+</p>
+
+<p>
   <a href="https://github.com/Hamza-code-hub?tab=followers"><img alt="GitHub followers" src="https://img.shields.io/github/followers/Hamza-code-hub?label=Followers&amp;style=flat-square&amp;logo=github&amp;color=0F766E" /></a>
   <a href="https://github.com/Hamza-code-hub?tab=repositories"><img alt="Public repositories" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FHamza-code-hub&amp;query=%24.public_repos&amp;label=Public%20repos&amp;style=flat-square&amp;logo=github&amp;color=0EA5E9" /></a>
 </p>
