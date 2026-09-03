@@ -131,12 +131,17 @@ My research interests include 3D data modelling, medical imaging, deep learning,
   <img width="100%" alt="Animated direct contact signal for Muhammad Hamza" src="./assets/contact-signal.svg" />
 </a>
 
-**[Portfolio](https://hamza-code-hub.github.io/)** | **[LinkedIn](https://www.linkedin.com/in/hamzzaz)** | **[Kaggle](https://www.kaggle.com/muhammadhamzamaher)** | **[Google Scholar](https://scholar.google.com/citations?user=akj6QK0AAAAJ&amp;hl=en)** | **[ORCID](https://orcid.org/0009-0005-5941-1917)** | **[Resume](https://hamza-code-hub.github.io/resume/)**
+<p>
+  <a href="https://hamza-code-hub.github.io/"><img width="52" height="52" alt="Portfolio" title="Portfolio" src="https://simpleicons.dev/icons?icons=googlechrome&amp;theme=dark" /></a>&nbsp;
+  <a href="https://github.com/Hamza-code-hub"><img width="52" height="52" alt="GitHub" title="GitHub" src="https://simpleicons.dev/icons?icons=github&amp;theme=dark&amp;iconColor=FFFFFF" /></a>&nbsp;
+  <a href="https://www.linkedin.com/in/hamzzaz"><img width="52" height="52" alt="LinkedIn" title="LinkedIn" src="https://skillicons.dev/icons?i=linkedin&amp;theme=dark" /></a>&nbsp;
+  <a href="https://www.kaggle.com/muhammadhamzamaher"><img width="52" height="52" alt="Kaggle" title="Kaggle" src="https://simpleicons.dev/icons?icons=kaggle&amp;theme=dark" /></a>&nbsp;
+  <a href="https://scholar.google.com/citations?user=akj6QK0AAAAJ&amp;hl=en"><img width="52" height="52" alt="Google Scholar" title="Google Scholar" src="https://simpleicons.dev/icons?icons=googlescholar&amp;theme=dark" /></a>&nbsp;
+  <a href="https://orcid.org/0009-0005-5941-1917"><img width="52" height="52" alt="ORCID" title="ORCID" src="https://simpleicons.dev/icons?icons=orcid&amp;theme=dark" /></a>&nbsp;
+  <a href="https://hamza-code-hub.github.io/resume/"><img width="52" height="52" alt="Resume" title="Resume" src="https://simpleicons.dev/icons?icons=googledocs&amp;theme=dark" /></a>&nbsp;
+  <a href="mailto:hamza.ai.official@gmail.com"><img width="52" height="52" alt="Email" title="Email" src="https://simpleicons.dev/icons?icons=gmail&amp;theme=dark" /></a>
+</p>
 
-<a href="mailto:hamza.ai.official@gmail.com"><img alt="Email Muhammad Hamza" src="https://img.shields.io/badge/Email_hamza.ai.official%40gmail.com-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" /></a>
-
-<a href="mailto:hamza.ai.official@gmail.com">
-  <img alt="Animated invitation to contact Muhammad Hamza" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=18&amp;pause=1100&amp;color=22D3EE&amp;center=true&amp;vCenter=true&amp;width=760&amp;lines=Have+an+AI+problem+worth+solving%3F;Let%27s+turn+the+idea+into+a+working+system.;hamza.ai.official%40gmail.com" />
-</a>
+<img width="100%" alt="Animated transition to Muhammad Hamza's pinned GitHub repositories" src="./assets/profile-footer.svg" />
 
 </div>
