@@ -16,8 +16,8 @@
 
 <p>
   <a href="https://hamza-code-hub.github.io/"><img width="56" height="56" alt="Portfolio" title="Portfolio" src="https://simpleicons.dev/icons?icons=googlechrome&amp;theme=dark" /></a>&nbsp;
-  <a href="https://github.com/Hamza-code-hub"><img width="56" height="56" alt="GitHub" title="GitHub" src="https://simpleicons.dev/icons?icons=github&amp;theme=dark" /></a>&nbsp;
-  <a href="https://www.linkedin.com/in/hamzzaz"><img width="56" height="56" alt="LinkedIn" title="LinkedIn" src="https://simpleicons.dev/icons?icons=linkedin&amp;theme=dark" /></a>&nbsp;
+  <a href="https://github.com/Hamza-code-hub"><img width="56" height="56" alt="GitHub" title="GitHub" src="https://simpleicons.dev/icons?icons=github&amp;theme=dark&amp;iconColor=FFFFFF" /></a>&nbsp;
+  <a href="https://www.linkedin.com/in/hamzzaz"><img width="56" height="56" alt="LinkedIn" title="LinkedIn" src="https://skillicons.dev/icons?i=linkedin&amp;theme=dark" /></a>&nbsp;
   <a href="https://www.kaggle.com/muhammadhamzamaher"><img width="56" height="56" alt="Kaggle" title="Kaggle" src="https://simpleicons.dev/icons?icons=kaggle&amp;theme=dark" /></a>&nbsp;
   <a href="https://scholar.google.com/citations?user=akj6QK0AAAAJ&amp;hl=en"><img width="56" height="56" alt="Google Scholar" title="Google Scholar" src="https://simpleicons.dev/icons?icons=googlescholar&amp;theme=dark" /></a>&nbsp;
   <a href="https://orcid.org/0009-0005-5941-1917"><img width="56" height="56" alt="ORCID" title="ORCID" src="https://simpleicons.dev/icons?icons=orcid&amp;theme=dark" /></a>&nbsp;
