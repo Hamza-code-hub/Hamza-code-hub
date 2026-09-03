@@ -7,11 +7,7 @@
 <div align="center">
 
 <a href="https://hamza-code-hub.github.io/">
-  <img width="100%" alt="Muhammad Hamza - AI engineer and applied researcher" src="https://capsule-render.vercel.app/api?type=venom&amp;color=0:0B1220,35:0EA5E9,68:14B8A6,100:F97316&amp;height=250&amp;section=header&amp;text=Muhammad%20Hamza&amp;fontSize=58&amp;fontColor=F8FAFC&amp;fontAlignY=40&amp;desc=AI%20Engineer%20%7C%20Applied%20Researcher%20%7C%20Production%20Systems&amp;descSize=19&amp;descAlignY=62&amp;animation=fadeIn" />
-</a>
-
-<a href="mailto:hamza.ai.official@gmail.com">
-  <img width="900" alt="Muhammad Hamza's animated engineering focus" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=21&amp;duration=2600&amp;pause=850&amp;color=22D3EE&amp;center=true&amp;vCenter=true&amp;multiline=false&amp;repeat=true&amp;random=false&amp;width=900&amp;height=55&amp;lines=Engineering+AI+systems+that+ship;Agentic+AI+%2B+RAG+%2B+Computer+Vision;Research-minded.+Production-focused.;Let%27s+build+%7C+hamza.ai.official%40gmail.com" />
+  <img width="100%" alt="Muhammad Hamza - animated AI systems portfolio" src="./assets/profile-hero.svg" />
 </a>
 
 <p>
