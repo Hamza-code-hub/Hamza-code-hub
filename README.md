@@ -1,111 +1,139 @@
 <!--
   PROFILE README
-  GitHub displays this on the profile Overview when it is published from:
-  https://github.com/Hamza-code-hub/Hamza-code-hub
+  Publish this from https://github.com/Hamza-code-hub/Hamza-code-hub
+  to display it on the GitHub profile Overview page.
 -->
 
 <div align="center">
 
-<img width="100%" alt="Muhammad Hamza — senior AI and machine learning engineer" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0ea5e9,50:14b8a6,100:f97316&amp;height=220&amp;section=header&amp;text=Muhammad%20Hamza&amp;fontSize=56&amp;fontColor=ffffff&amp;fontAlignY=38&amp;desc=AI%20Engineer%20%E2%80%A2%20Agentic%20Systems%20%E2%80%A2%20Applied%20Research&amp;descAlignY=60&amp;animation=fadeIn" />
+<a href="https://hamza-code-hub.github.io/">
+  <img width="100%" alt="Muhammad Hamza - AI engineer and applied AI researcher" src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:0B1220,52:0F766E,100:0EA5E9&amp;height=178&amp;text=Muhammad%20Hamza&amp;fontSize=52&amp;fontColor=F8FAFC&amp;fontAlignY=40&amp;desc=AI%20Engineer%20%7C%20Applied%20Researcher%20%7C%20University%20of%20Okara%20'26&amp;descSize=18&amp;descAlignY=66&amp;animation=fadeIn" />
+</a>
 
 <a href="https://hamza-code-hub.github.io/">
-  <img alt="Professional introduction: AI/ML Engineer, Agentic AI and RAG Architect, Production AI Builder" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=22&amp;pause=900&amp;color=22D3EE&amp;center=true&amp;vCenter=true&amp;width=820&amp;lines=AI%2FML+Engineer;Agentic+AI+%26+RAG+Architect;Computer+Vision+%26+Applied+ML;Building+Production-Ready+AI+Systems" />
+  <img alt="Muhammad Hamza's focus areas" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=20&amp;pause=1250&amp;color=22D3EE&amp;center=true&amp;vCenter=true&amp;width=900&amp;lines=Engineering+AI+systems+that+ship;Agentic+AI+%7C+RAG+%7C+Computer+Vision;Research-minded%2C+production-focused" />
 </a>
 
 <p>
-  <a href="https://hamza-code-hub.github.io/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-Explore_my_work-0ea5e9?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=white" /></a>
+  <a href="https://hamza-code-hub.github.io/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-Explore_work-0EA5E9?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/hamzzaz"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" /></a>
-  <a href="mailto:hamza.ai.official@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Let's_build-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" /></a>
-  <a href="https://hamza-code-hub.github.io/resume/"><img alt="Resume" src="https://img.shields.io/badge/Resume-View_online-f97316?style=for-the-badge&amp;logo=readdotcv&amp;logoColor=white" /></a>
+  <a href="https://www.kaggle.com/muhammadhamzamaher"><img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-Experiments-20BEFF?style=for-the-badge&amp;logo=kaggle&amp;logoColor=white" /></a>
+  <a href="https://scholar.google.com/citations?user=akj6QK0AAAAJ&amp;hl=en"><img alt="Google Scholar" src="https://img.shields.io/badge/Google_Scholar-Research-4285F4?style=for-the-badge&amp;logo=googlescholar&amp;logoColor=white" /></a>
 </p>
 
-**I design intelligent systems that move from research and prototypes to reliable production software.**
+<p>
+  <a href="https://orcid.org/0009-0005-5941-1917"><img alt="ORCID" src="https://img.shields.io/badge/ORCID-0009--0005--5941--1917-A6CE39?style=flat-square&amp;logo=orcid&amp;logoColor=white" /></a>
+  <a href="https://hamza-code-hub.github.io/resume/"><img alt="Resume" src="https://img.shields.io/badge/Resume-View_CV-F97316?style=flat-square&amp;logo=readdotcv&amp;logoColor=white" /></a>
+  <a href="https://github.com/Hamza-code-hub?tab=followers"><img alt="GitHub followers" src="https://img.shields.io/github/followers/Hamza-code-hub?label=Followers&amp;style=flat-square&amp;logo=github&amp;color=0F766E" /></a>
+  <a href="https://github.com/Hamza-code-hub?tab=repositories"><img alt="Public repositories" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FHamza-code-hub&amp;query=%24.public_repos&amp;label=Public%20repos&amp;style=flat-square&amp;logo=github&amp;color=0EA5E9" /></a>
+</p>
 
 </div>
 
-<img width="100%" alt="Agentic AI architecture connecting data, RAG, machine learning, computer vision, APIs, and cloud delivery" src="https://raw.githubusercontent.com/Hamza-code-hub/Hamza-code-hub.github.io/main/images/github-profile-ai-network.svg" />
+## Building useful intelligence
 
-## About me
+I am Muhammad Hamza, an AI engineer and applied AI researcher based in Pakistan. I completed a Bachelor of Science in Software Engineering at the University of Okara in 2026. My work sits where strong models meet dependable software: agentic systems, retrieval, computer vision, and the engineering needed to put them to work.
 
-I am **Muhammad Hamza**, an AI/ML engineer and applied AI researcher from Pakistan. My work centers on **agentic AI**, **LLM applications**, **Retrieval-Augmented Generation**, **computer vision**, and **production machine-learning systems**.
+<table>
+  <tr>
+    <td width="52%" valign="top">
 
-- Building multi-agent workflows, tool-using AI agents, and grounded RAG platforms.
-- Designing retrieval pipelines with embeddings, semantic search, FAISS, and ChromaDB.
-- Developing computer-vision and deep-learning systems for operational and medical use cases.
-- Shipping AI capabilities through Python, FastAPI, Django, cloud infrastructure, and CI/CD.
-- Published research in 3D deep learning for Alzheimer's disease classification from brain MRI.
+<h3>What I optimize for</h3>
 
-## Engineering focus
+<ul>
+  <li>Grounded, tool-using AI workflows rather than demos that stop at a prompt.</li>
+  <li>Computer-vision systems that turn raw video into operational decisions.</li>
+  <li>Reproducible experimentation, measurable evaluation, and maintainable delivery.</li>
+</ul>
 
-| Domain | What I build |
+    </td>
+    <td width="48%" valign="top">
+
+<a href="https://github.com/Hamza-code-hub">
+  <img alt="Live GitHub profile statistics for Muhammad Hamza" src="https://github-readme-stats.vercel.app/api?username=Hamza-code-hub&amp;show_icons=true&amp;hide_border=true&amp;bg_color=0B1220&amp;title_color=22D3EE&amp;icon_color=14B8A6&amp;text_color=CBD5E1&amp;rank_icon=github" />
+</a>
+
+    </td>
+  </tr>
+</table>
+
+## Core practice
+
+| Area | How I apply it |
 | :--- | :--- |
-| **Agentic AI** | Multi-agent orchestration, stateful workflows, tool use, MCP, and AI automation |
-| **LLM + RAG** | Production retrieval architectures, vector search, knowledge assistants, and evaluation |
-| **Machine Learning** | Predictive systems, feature engineering, model evaluation, and decision-ready analytics |
-| **Computer Vision** | Detection, tracking, real-time video intelligence, and medical imaging workflows |
-| **AI Platforms** | APIs, backend services, containerized deployment, observability, and cloud delivery |
+| **Agentic AI** | Multi-agent orchestration, stateful workflows, tool use, MCP, and AI automation. |
+| **LLM and RAG** | Retrieval design, embeddings, semantic search, knowledge assistants, and evaluation. |
+| **Computer vision** | Detection, tracking, spatial reasoning, motion analysis, and real-time video intelligence. |
+| **Applied ML** | Data preparation, feature engineering, model evaluation, and decision-ready analytics. |
+| **AI delivery** | Python APIs, backend services, containers, CI/CD, observability, and cloud deployment. |
 
-## Technology stack
+## Selected work
+
+| System | Focus | Explore |
+| :--- | :--- | :---: |
+| **VisionGuard AI** | Warehouse video safety intelligence: detection, tracking, motion, TTC, risk, and explainable events. | [Case study](https://hamza-code-hub.github.io/projects/visionguard-ai.html) |
+| **NeuroInsight AI** | Clinical intelligence combining 3D neuroimaging, explainability, biomarkers, RAG, and reporting. | [Case study](https://hamza-code-hub.github.io/projects/neuroinsight-ai.html) |
+| **Agentic Cybersecurity Assistant** | Multi-agent vulnerability triage, security retrieval, scheduled scans, and reporting. | [Case study](https://hamza-code-hub.github.io/projects/agentic-cybersecurity-ai-assistant.html) |
+| **Agentic RAG Support Assistant** | Knowledge-grounded technical support with autonomous reasoning and retrieval. | [Case study](https://hamza-code-hub.github.io/projects/agentic-rag-support-assistant.html) |
+| **AeroRUL AI** | Aircraft-engine remaining-useful-life prediction and operational analytics. | [Case study](https://hamza-code-hub.github.io/projects/aircraft-engine-rul-prediction.html) |
 
 <div align="center">
 
-<img alt="Python, PyTorch, TensorFlow, Scikit-learn, OpenCV, FastAPI, Django, Flutter, Docker, Kubernetes, AWS, Git, GitHub, PostgreSQL, MongoDB, and Linux" src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,opencv,fastapi,django,flutter,docker,kubernetes,aws,git,github,postgres,mongodb,linux&amp;perline=8" />
+<a href="https://hamza-code-hub.github.io/portfolio.html"><img alt="Browse all projects" src="https://img.shields.io/badge/Browse_the_portfolio-0F766E?style=for-the-badge&amp;logo=github&amp;logoColor=white" /></a>
+<a href="https://hamza-code-hub.github.io/contact.html"><img alt="Start a conversation" src="https://img.shields.io/badge/Start_a_conversation-F97316?style=for-the-badge&amp;logo=minutemailer&amp;logoColor=white" /></a>
+
+</div>
+
+## Tools I reach for
+
+<div align="center">
+
+<img alt="Python, PyTorch, TensorFlow, Scikit-learn, OpenCV, FastAPI, Django, Docker, AWS, PostgreSQL, MongoDB, Git, and Linux" src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,opencv,fastapi,django,docker,aws,postgres,mongodb,git,linux&amp;perline=13" />
 
 <br /><br />
 
-![LangChain](https://img.shields.io/badge/LangChain-Agent_Orchestration-1C3C3C?style=flat-square)
-![LangGraph](https://img.shields.io/badge/LangGraph-Stateful_Agents-0F766E?style=flat-square)
+![LangChain](https://img.shields.io/badge/LangChain-Agent_orchestration-1C3C3C?style=flat-square)
+![LangGraph](https://img.shields.io/badge/LangGraph-Stateful_agents-0F766E?style=flat-square)
 ![LlamaIndex](https://img.shields.io/badge/LlamaIndex-RAG-7C3AED?style=flat-square)
-![FAISS](https://img.shields.io/badge/FAISS-Vector_Search-0284C7?style=flat-square)
+![FAISS](https://img.shields.io/badge/FAISS-Vector_search-0284C7?style=flat-square)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-Embeddings-F97316?style=flat-square)
-![MCP](https://img.shields.io/badge/MCP-Tool_Integration-2563EB?style=flat-square)
-![Pandas](https://img.shields.io/badge/Pandas-Data_Science-150458?style=flat-square&logo=pandas)
-![Power BI](https://img.shields.io/badge/Power_BI-Analytics-F2C811?style=flat-square&logo=powerbi&logoColor=111827)
+![MCP](https://img.shields.io/badge/MCP-Tool_integration-2563EB?style=flat-square)
 
 </div>
 
-## Selected systems
-
-| Project | Engineering impact | Case study |
-| :--- | :--- | :---: |
-| **VisionGuard AI** | Real-time warehouse risk intelligence using detection, tracking, and safety analytics | [View](https://hamza-code-hub.github.io/projects/visionguard-ai.html) |
-| **NeuroInsight AI** | Agentic clinical intelligence with 3D neuroimaging, explainability, biomarkers, and RAG | [View](https://hamza-code-hub.github.io/projects/neuroinsight-ai.html) |
-| **Agentic Cybersecurity Assistant** | Multi-agent vulnerability triage, security retrieval, scheduled scans, and reporting | [View](https://hamza-code-hub.github.io/projects/agentic-cybersecurity-ai-assistant.html) |
-| **Agentic RAG Support Assistant** | Knowledge-grounded technical support with autonomous reasoning and retrieval | [View](https://hamza-code-hub.github.io/projects/agentic-rag-support-assistant.html) |
-| **AeroRUL AI** | Predictive aircraft-engine remaining-useful-life modeling and operational analytics | [View](https://hamza-code-hub.github.io/projects/aircraft-engine-rul-prediction.html) |
+## Live engineering signal
 
 <div align="center">
 
-### Explore the complete portfolio
+<a href="https://github.com/Hamza-code-hub">
+  <img width="96%" alt="Live GitHub contribution summary for Muhammad Hamza" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hamza-code-hub&amp;theme=github_dark" />
+</a>
 
-[![View all AI projects](https://img.shields.io/badge/View_All_AI_Projects-Portfolio-14b8a6?style=for-the-badge&logo=github&logoColor=white)](https://hamza-code-hub.github.io/portfolio.html)
-[![Discuss a project](https://img.shields.io/badge/Discuss_A_Project-Contact_Me-f97316?style=for-the-badge&logo=minutemailer&logoColor=white)](https://hamza-code-hub.github.io/contact.html)
+<a href="https://github.com/Hamza-code-hub">
+  <img width="48%" alt="Muhammad Hamza repositories by programming language" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hamza-code-hub&amp;theme=github_dark" />
+</a>
+<a href="https://github.com/Hamza-code-hub">
+  <img width="48%" alt="Muhammad Hamza most-used programming languages" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Hamza-code-hub&amp;theme=github_dark" />
+</a>
+
+<br />
+
+<a href="https://github.com/Hamza-code-hub">
+  <img alt="Live GitHub streak statistics for Muhammad Hamza" src="https://streak-stats.demolab.com?user=Hamza-code-hub&amp;hide_border=true&amp;background=0B1220&amp;ring=22D3EE&amp;fire=F97316&amp;currStreakLabel=CBD5E1&amp;sideLabels=CBD5E1&amp;dates=94A3B8" />
+</a>
 
 </div>
 
-## GitHub engineering activity
+## Research and contact
+
+My research interests include 3D data modelling, medical imaging, deep learning, and practical AI systems. I bring the same approach to research and engineering: frame the problem clearly, make experiments reproducible, measure outcomes honestly, and build the surrounding software that makes the result useful.
 
 <div align="center">
 
-<img width="98%" alt="Muhammad Hamza GitHub contribution profile" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hamza-code-hub&amp;theme=github_dark" />
+**[Portfolio](https://hamza-code-hub.github.io/)** | **[LinkedIn](https://www.linkedin.com/in/hamzzaz)** | **[Kaggle](https://www.kaggle.com/muhammadhamzamaher)** | **[Google Scholar](https://scholar.google.com/citations?user=akj6QK0AAAAJ&amp;hl=en)** | **[ORCID](https://orcid.org/0009-0005-5941-1917)** | **[Resume](https://hamza-code-hub.github.io/resume/)**
 
-<img width="49%" alt="Muhammad Hamza repositories by programming language" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hamza-code-hub&amp;theme=github_dark" />
-<img width="49%" alt="Muhammad Hamza commits by programming language" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Hamza-code-hub&amp;theme=github_dark" />
+<a href="mailto:hamza.ai.official@gmail.com"><img alt="Email Muhammad Hamza" src="https://img.shields.io/badge/Email_hamza.ai.official%40gmail.com-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" /></a>
 
-</div>
-
-## Research to production
-
-My research in volumetric brain MRI and 3D deep learning informs how I approach real-world AI: establish a measurable problem, build reproducible pipelines, evaluate honestly, and engineer the surrounding software needed to make the model useful.
-
-> **Current direction:** production-grade agentic systems, RAG evaluation, multimodal intelligence, AI security, and reliable AI platform architecture.
-
-<div align="center">
-
-### Let's build an intelligent system that creates measurable value
-
-**[Portfolio](https://hamza-code-hub.github.io/)** · **[LinkedIn](https://www.linkedin.com/in/hamzzaz)** · **[Resume](https://hamza-code-hub.github.io/resume/)** · **[Email](mailto:hamza.ai.official@gmail.com)**
-
-<img width="100%" alt="Gradient profile footer" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:f97316,50:14b8a6,100:0ea5e9&amp;height=120&amp;section=footer" />
+<img width="100%" alt="Profile footer" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0EA5E9,50:0F766E,100:0B1220&amp;height=110&amp;section=footer" />
 
 </div>
