@@ -1,28 +1,35 @@
 <!--
-  PROFILE README  Publish this from https://github.com/Hamza-code-hub/Hamza-code-hub
+  PROFILE README
+  Publish this from https://github.com/Hamza-code-hub/Hamza-code-hub
   to display it on the GitHub profile Overview page.
 -->
 
 <div align="center">
 
 <a href="https://hamza-code-hub.github.io/">
-  <img width="100%" alt="Muhammad Hamza - AI engineer and applied AI researcher" src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:0B1220,52:0F766E,100:0EA5E9&amp;height=178&amp;text=Muhammad%20Hamza&amp;fontSize=52&amp;fontColor=F8FAFC&amp;fontAlignY=40&amp;desc=AI%20Engineer%20%7C%20Applied%20Researcher%20%7C%20University%20of%20Okara%20'26&amp;descSize=18&amp;descAlignY=66&amp;animation=fadeIn" />
+  <img width="100%" alt="Muhammad Hamza - animated AI systems portfolio" src="./assets/profile-hero.svg" />
 </a>
 
-<a href="https://hamza-code-hub.github.io/">
-  <img alt="Muhammad Hamza's focus areas" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=20&amp;pause=1250&amp;color=22D3EE&amp;center=true&amp;vCenter=true&amp;width=900&amp;lines=Engineering+AI+systems+that+ship;Agentic+AI+%7C+RAG+%7C+Computer+Vision;Research-minded%2C+production-focused" />
+<a href="mailto:hamza.ai.official@gmail.com">
+  <img width="900" alt="Muhammad Hamza's animated engineering focus" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=21&amp;duration=2600&amp;pause=850&amp;color=22D3EE&amp;center=true&amp;vCenter=true&amp;multiline=false&amp;repeat=true&amp;random=false&amp;width=900&amp;height=55&amp;lines=Engineering+AI+systems+that+ship;Agentic+AI+%2B+RAG+%2B+Computer+Vision;Research-minded.+Production-focused.;Let%27s+build+%7C+hamza.ai.official%40gmail.com" />
 </a>
 
 <p>
-  <a href="https://hamza-code-hub.github.io/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-Explore_work-0EA5E9?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/hamzzaz"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" /></a>
-  <a href="https://www.kaggle.com/muhammadhamzamaher"><img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-Experiments-20BEFF?style=for-the-badge&amp;logo=kaggle&amp;logoColor=white" /></a>
-  <a href="https://scholar.google.com/citations?user=akj6QK0AAAAJ&amp;hl=en"><img alt="Google Scholar" src="https://img.shields.io/badge/Google_Scholar-Research-4285F4?style=for-the-badge&amp;logo=googlescholar&amp;logoColor=white" /></a>
+  <a href="https://hamza-code-hub.github.io/"><img width="56" height="56" alt="Portfolio" title="Portfolio" src="https://simpleicons.dev/icons?icons=googlechrome&amp;theme=dark" /></a>&nbsp;
+  <a href="https://github.com/Hamza-code-hub"><img width="56" height="56" alt="GitHub" title="GitHub" src="https://simpleicons.dev/icons?icons=github&amp;theme=dark" /></a>&nbsp;
+  <a href="https://www.linkedin.com/in/hamzzaz"><img width="56" height="56" alt="LinkedIn" title="LinkedIn" src="https://simpleicons.dev/icons?icons=linkedin&amp;theme=dark" /></a>&nbsp;
+  <a href="https://www.kaggle.com/muhammadhamzamaher"><img width="56" height="56" alt="Kaggle" title="Kaggle" src="https://simpleicons.dev/icons?icons=kaggle&amp;theme=dark" /></a>&nbsp;
+  <a href="https://scholar.google.com/citations?user=akj6QK0AAAAJ&amp;hl=en"><img width="56" height="56" alt="Google Scholar" title="Google Scholar" src="https://simpleicons.dev/icons?icons=googlescholar&amp;theme=dark" /></a>&nbsp;
+  <a href="https://orcid.org/0009-0005-5941-1917"><img width="56" height="56" alt="ORCID" title="ORCID" src="https://simpleicons.dev/icons?icons=orcid&amp;theme=dark" /></a>&nbsp;
+  <a href="https://hamza-code-hub.github.io/resume/"><img width="56" height="56" alt="Resume" title="Resume" src="https://simpleicons.dev/icons?icons=googledocs&amp;theme=dark" /></a>&nbsp;
+  <a href="mailto:hamza.ai.official@gmail.com"><img width="56" height="56" alt="Email" title="Email" src="https://simpleicons.dev/icons?icons=gmail&amp;theme=dark" /></a>
 </p>
 
 <p>
-  <a href="https://orcid.org/0009-0005-5941-1917"><img alt="ORCID" src="https://img.shields.io/badge/ORCID-0009--0005--5941--1917-A6CE39?style=flat-square&amp;logo=orcid&amp;logoColor=white" /></a>
-  <a href="https://hamza-code-hub.github.io/Muhammad%20Hamza_CV.pdf"><img alt="Resume" src="https://img.shields.io/badge/Resume-View_CV-F97316?style=flat-square&amp;logo=readdotcv&amp;logoColor=white" /></a>
+  <a href="mailto:hamza.ai.official@gmail.com"><img alt="Email Muhammad Hamza at hamza.ai.official@gmail.com" src="https://img.shields.io/badge/Email-hamza.ai.official%40gmail.com-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" /></a>
+</p>
+
+<p>
   <a href="https://github.com/Hamza-code-hub?tab=followers"><img alt="GitHub followers" src="https://img.shields.io/github/followers/Hamza-code-hub?label=Followers&amp;style=flat-square&amp;logo=github&amp;color=0F766E" /></a>
   <a href="https://github.com/Hamza-code-hub?tab=repositories"><img alt="Public repositories" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FHamza-code-hub&amp;query=%24.public_repos&amp;label=Public%20repos&amp;style=flat-square&amp;logo=github&amp;color=0EA5E9" /></a>
 </p>
@@ -33,26 +40,11 @@
 
 I am Muhammad Hamza, an AI engineer and applied AI researcher based in Pakistan. I completed a Bachelor of Science in Software Engineering at the University of Okara in 2026. My work sits where strong models meet dependable software: agentic systems, retrieval, computer vision, and the engineering needed to put them to work.
 
-<table>
-  <tr>
-    <td width="52%" valign="top">
-
 ### What I optimize for
 
 - Grounded, tool-using AI workflows rather than demos that stop at a prompt.
 - Computer-vision systems that turn raw video into operational decisions.
 - Reproducible experimentation, measurable evaluation, and maintainable delivery.
-
-    </td>
-    <td width="48%" valign="top">
-
-<a href="https://github.com/Hamza-code-hub">
-  <img alt="Live GitHub profile statistics for Muhammad Hamza" src="https://github-readme-stats.vercel.app/api?username=Hamza-code-hub&amp;show_icons=true&amp;hide_border=true&amp;bg_color=0B1220&amp;title_color=22D3EE&amp;icon_color=14B8A6&amp;text_color=CBD5E1&amp;rank_icon=github" />
-</a>
-
-    </td>
-  </tr>
-</table>
 
 ## Core practice
 
@@ -65,6 +57,10 @@ I am Muhammad Hamza, an AI engineer and applied AI researcher based in Pakistan.
 | **AI delivery** | Python APIs, backend services, containers, CI/CD, observability, and cloud deployment. |
 
 ## Selected work
+
+<div align="center">
+  <img width="100%" alt="Animated path from product problem to production AI system" src="./assets/projects-flow.svg" />
+</div>
 
 | System | Focus | Explore |
 | :--- | :--- | :---: |
@@ -84,6 +80,10 @@ I am Muhammad Hamza, an AI engineer and applied AI researcher based in Pakistan.
 ## Tools I reach for
 
 <div align="center">
+
+<img width="100%" alt="Animated map of Muhammad Hamza's connected AI engineering capabilities" src="./assets/skills-network.svg" />
+
+<br />
 
 <img alt="Python, PyTorch, TensorFlow, Scikit-learn, OpenCV, FastAPI, Django, Docker, AWS, PostgreSQL, MongoDB, Git, and Linux" src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,opencv,fastapi,django,docker,aws,postgres,mongodb,git,linux&amp;perline=13" />
 
@@ -127,11 +127,16 @@ My research interests include 3D data modelling, medical imaging, deep learning,
 
 <div align="center">
 
-**[Portfolio](https://hamza-code-hub.github.io/)** | **[LinkedIn](https://www.linkedin.com/in/hamzzaz)** | **[Kaggle](https://www.kaggle.com/muhammadhamzamaher)** | **[Google Scholar](https://scholar.google.com/citations?user=akj6QK0AAAAJ&amp;hl=en)** | **[ORCID](https://orcid.org/0009-0005-5941-1917)** | **[Resume](https://hamza-code-hub.github.io/Muhammad%20Hamza_CV.pdf)**
+<a href="mailto:hamza.ai.official@gmail.com">
+  <img width="100%" alt="Animated direct contact signal for Muhammad Hamza" src="./assets/contact-signal.svg" />
+</a>
+
+**[Portfolio](https://hamza-code-hub.github.io/)** | **[LinkedIn](https://www.linkedin.com/in/hamzzaz)** | **[Kaggle](https://www.kaggle.com/muhammadhamzamaher)** | **[Google Scholar](https://scholar.google.com/citations?user=akj6QK0AAAAJ&amp;hl=en)** | **[ORCID](https://orcid.org/0009-0005-5941-1917)** | **[Resume](https://hamza-code-hub.github.io/resume/)**
 
 <a href="mailto:hamza.ai.official@gmail.com"><img alt="Email Muhammad Hamza" src="https://img.shields.io/badge/Email_hamza.ai.official%40gmail.com-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" /></a>
 
-<img width="100%" alt="Profile footer" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0EA5E9,50:0F766E,100:0B1220&amp;height=110&amp;section=footer" />
-er.vercel.app/api?type=waving&amp;color=0:f97316,50:14b8a6,100:0ea5e9&amp;height=120&amp;section=footer" />
+<a href="mailto:hamza.ai.official@gmail.com">
+  <img alt="Animated invitation to contact Muhammad Hamza" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=18&amp;pause=1100&amp;color=22D3EE&amp;center=true&amp;vCenter=true&amp;width=760&amp;lines=Have+an+AI+problem+worth+solving%3F;Let%27s+turn+the+idea+into+a+working+system.;hamza.ai.official%40gmail.com" />
+</a>
 
 </div>
