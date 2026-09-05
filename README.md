@@ -38,7 +38,7 @@
 
 ## Building useful intelligence
 
-I am Muhammad Hamza, an AI engineer and applied AI researcher based in Pakistan. I completed a Bachelor of Science in Software Engineering at the University of Okara in 2026. My work sits where strong models meet dependable software: agentic systems, retrieval, computer vision, and the engineering needed to put them to work.
+I am Muhammad Hamza, an AI engineer and applied AI researcher based in Pakistan. I completed a Bachelor of Science in Software Engineering. My work sits where strong models meet dependable software: agentic systems, retrieval, computer vision, and the engineering needed to put them to work.
 
 ### What I optimize for
 
